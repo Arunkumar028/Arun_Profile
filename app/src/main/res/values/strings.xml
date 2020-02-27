@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Arunkumar_Profile</string>
+    <string name="profile">Profile</string>
+    <string name="name">Arunkumar.Murugesan</string>
+    <string name="designation">Android Application Developer</string>
+    <string name="contactno">+91 - 9043149615</string>
+    <string name="mail"><a href="arunk7337@gmail.com">arunk7337@gmail.com</a></string>
+    <string name="resume"><a href="arunkumar.resume">arunkumar.resume</a></string>
+    <string name="view"><a href="arunkumar.resume">view</a></string>
+    <string name="address">D no 40 Advani nagar,\nTvs Nager,\nVelandipalayam post,\nCoimbatore -641025</string>
+    <string name="description"><ul><li>Highly concentrate on testing and improving software development and process skills in the development phase.</li></ul></string>
+    <string name="experience"><ul><li>3+ years experience in Android Application Developement.</li></ul></string>
+    <string name="experience_company">Experience</string>
+    <string name="company_name">Company Name</string>
+    <string name="duration">Oct\'19</string>
+    <string name="location">Location</string>
+    <string name="desc_kg">\t Developing REST client-server application in android and used common libraries and tools : Android support libraries,
+                           ButterKnife,Event Bus,MVVM,Firebase,Material design,Google maps,Live Tracking..</string>
+    <string name="desc_indus">\t  Creating application that reads and parses SOAP data into a Android application.\nKSOAP2 library to load and send data to service.
+        \n\nMVP,SOAP,Fast Networking,Volley.
+    </string>
+    <string name="osa">\t Designing and developing advanced applications for the Android platform.\n\n Tools are used to develope: SDK,XML,Sqlite,JSON,AsyncTask,Volley. </string>
+
+
+    <string name="mydiet"> Lose weight with a personal diet plan for your health and fitness goals.
+                        \n\n Buy 500+ healthy snacks and foods handpicked by nutritionists across 15 categories. Get healthy foods home delivered and Eat Better starting today!
+                        \n\n Online food ordering is the process of ordering food through the restaurant\'s through  mobile app inside the KGISL-GSS.
+                        \n\n The process consists of a employee choosing their choice, selecting the menu items, choosing an item, and finally confirming order and they can get it from canteen.
+
+                        \n\n\n Key Features of this Application : \n\t a)Employees can able know the sum of current day and current month summary.
+                                                \n\t b)More spending items with count for last 30 days shown in the report.
+    </string>
+
+    <string name="makkalauto">
+
+       \tMakkal Auto is a pioneer in providing Auto Rental services with more than 300 auto\'s at resonable price to the people. The service been provided since 2014. Still finding new ways to reach people.
+
+        \n\n\t Makkal Auto App is a new way of customer connecting service Focused specially on user friendly experience. Offering Online booking Services at affordable Prices by providing by means of auto Rentals and Call based booking services 24X7 Hours Auto Service.
+
+        \n\n\n\t Key Features of this application
+
+        \n\t1. Easy and simple registration process using your mobile number.
+        \n\t2. Choose Pick-up Place:
+        \n\ta) Via Map: Based on your GPS/GPRS location services, the application identifies the existing user location. You can choose that as Pick-up address or you can choose a different pick-up place by moving the Pointer to a desired pick up place on the map.
+    </string>
+
+    <string name="quicktaxi">
+
+       \tQuick is a pioneer in providing Car Rental services with more than 100 car\'s at resonable price to the people. Still finding new ways to reach people.
+
+        \n\n\t QuickTaxi App is a new way of customer connecting service Focused specially on user friendly experience. Offering Online booking Services at affordable Prices by providing by means of auto Rentals and Call based booking services 24X7 Hours Taxi Service.
+
+        \n\n\n\t Key Features of this application
+
+        \n\t1. Easy and simple registration process using your mobile number.
+        \n\t2. Choose Pick-up Place:
+        \n\ta) Via Map: Based on your GPS/GPRS location services, the application identifies the existing user location. You can choose that as Pick-up address or you can choose a different pick-up place by moving the Pointer to a desired pick up place on the map.
+        \n\tb) mini,suv and sedan types of cab\'s available with the trip type of local,package and outstation.
+    </string>
+
+    <string name="BullsDriver">
+
+        \t1.By signing up with Bulls Auto Taxii Partner you can earn more and manage your business efficiently.
+With this Bulls Auto Taxii Partner app you can:
+        \n\t2.Track the real-time location of all your cars and drivers.
+        \n\t3.Monitor the performance of your cars and drivers.
+        \n\t4.Receive alerts of important events.
+        \n\t5.View detailed reports of your earnings and individual Driver cash collection
+Enjoy!! This is all for you.
+
+        \n\nKey Features of this application:
+        \n\t a)Please note that the Income depends on your performance and city.
+
+
+    </string>
+
+    <string name="SowmiyaTravels">
+        \tSowimya Travels is a pioneer in providing Car Rental services with more than 100 car\'s at resonable price to the people. Still finding new ways to reach people.
+         \n\t1. Easy and simple registration process using your mobile number.
+        \n\t2. Choose Pick-up Place:
+        \n\ta) Via Map: Based on your GPS/GPRS location services, the application identifies the existing user location. You can choose that as Pick-up address or you can choose a different pick-up place by moving the Pointer to a desired pick up place on the map.
+        \n\tb) mini,suv and sedan types of cab\'s available with the trip type of local,package and outstation.
+    </string>
+    <string name="education">Education</string>
+
+</resources>

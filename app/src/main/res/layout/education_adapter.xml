@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dimen_5sp"
+    app:cardCornerRadius="@dimen/dimen_5sp"
+    android:elevation="@dimen/dimen_5sp">
+
+    <RelativeLayout
+        android:id="@+id/main_RL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_5sp">
+
+        <TextView
+            android:id="@+id/companyname_TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/company_name"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_alignParentLeft="true"
+            android:fontFamily="@font/baumans"/>
+
+        <TextView
+            android:id="@+id/duration_TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/duration"
+            android:textColor="@color/black"
+            android:layout_marginTop="@dimen/dimen_5sp"
+            android:fontFamily="@font/baumans"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/companyname_TV"/>
+
+        <LinearLayout
+            android:id="@+id/location_LL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/companyname_TV"
+            android:layout_marginTop="@dimen/dimen_5sp">
+
+            <ImageView
+                android:layout_width="@dimen/dimen_20sp"
+                android:layout_height="@dimen/dimen_20sp"
+                android:src="@drawable/ic_location"/>
+
+
+        <TextView
+            android:id="@+id/location_TV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/location"
+            android:textColor="@color/black"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="@dimen/dimen_5sp"
+            android:fontFamily="@font/baumans"/>
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1sp"
+            android:background="@color/colorPrimaryDark"
+            android:layout_below="@+id/location_LL"
+            android:layout_marginTop="@dimen/dimen_2sp"
+            android:layout_margin="@dimen/dimen_2sp"/>
+
+        <ImageView
+            android:id="@+id/designation_IV"
+            android:layout_width="@dimen/dimen_25spsp"
+            android:layout_height="@dimen/dimen_25spsp"
+            android:layout_below="@+id/view1"
+            android:src="@drawable/ic_degree"
+            android:layout_margin="@dimen/dimen_5sp"/>
+
+        <TextView
+            android:id="@+id/designation_TV"
+            android:layout_below="@+id/view1"
+            android:layout_toRightOf="@id/designation_IV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Android Application Developer"
+            android:layout_margin="@dimen/dimen_5sp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="@dimen/dimen_2sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/baumans"/>
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1sp"
+            android:background="@color/colorPrimaryDark"
+            android:layout_below="@+id/designation_IV"
+            android:layout_marginTop="@dimen/dimen_2sp"
+            android:layout_margin="@dimen/dimen_2sp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/description_TV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view2"
+            android:text="@string/designation"
+            android:textColor="@color/black"
+            android:layout_marginLeft="@dimen/dimen_5sp"
+            android:fontFamily="@font/baumans"
+            android:padding="@dimen/dimen_5sp"
+            android:visibility="gone"/>
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

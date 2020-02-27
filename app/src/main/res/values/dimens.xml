@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_400sp">400sp</dimen>
+    <dimen name="dimen_300sp">300sp</dimen>
+    <dimen name="dimen_70sp">70sp</dimen>
+    <dimen name="dimen_10sp">10sp</dimen>
+    <dimen name="dimen_5sp">5sp</dimen>
+    <dimen name="dimen_350sp">350sp</dimen>
+    <dimen name="dimen_2sp">2sp</dimen>
+    <dimen name="dimen_1sp">1sp</dimen>
+    <dimen name="dimen_40sp">40sp</dimen>
+    <dimen name="dimen_30sp">30sp</dimen>
+    <dimen name="dimen_20sp">20sp</dimen>
+    <dimen name="dimen_50sp">50sp</dimen>
+    <dimen name="dimen_100sp">100sp</dimen>
+    <dimen name="dimen_25spsp">25sp</dimen>
+    <dimen name="dimen_200sp">200sp</dimen>
+    <dimen name="dimen_250sp">250sp</dimen>
+
+    <dimen name="detail_backdrop_height">256dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_avatar_size">40dp</dimen>
+    <dimen name="dimen_150sp">150sp</dimen>
+    <dimen name="dimen_180sp">180sp</dimen>
+</resources>
